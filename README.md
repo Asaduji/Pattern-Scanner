@@ -1,4 +1,4 @@
-# Pattern-Scan-Example
+# C++ Pattern Scanner
 Example of pattern scanner in c++
 
 This will find an IDA like pattern in the specified module.
